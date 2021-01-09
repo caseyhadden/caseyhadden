@@ -1,16 +1,13 @@
-### Hi there 👋
+### Summary
 
-<!--
-**caseyhadden/caseyhadden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a synthesizer. This involves gathering information from a
+variety of sources and assessing it given a particular current context. Once
+complete, we can define and communicate a desired end state as well as a set of
+concrete steps to achieve it. Finally, we can set off implementing this plan
+with an expectation to refine it incrementally as we continually learn more
+about our context and choices.
 
-Here are some ideas to get you started:
+### Current work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working with Golang, Docker, and Kubernetes to develop parts of
+the core analytics platform at SAS Institute, Inc.
