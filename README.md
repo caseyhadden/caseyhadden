@@ -7,7 +7,13 @@ concrete steps to achieve it. Finally, we can set off implementing this plan
 with an expectation to refine it incrementally as we continually learn more
 about our context and choices.
 
-### Current work
+### Work
 
-I'm currently working with Golang, Docker, and Kubernetes to develop parts of
-the core analytics platform at SAS Institute, Inc.
+In my career, I've developed parts of products accessed directly by end users,
+core libraries and services used by other developers to create their products,
+and layers including continuous integration, delivery, and networking
+infrastructure.
+
+I'm currently working as a Senior Manager of Software Development at Appian. Our
+team provides the infrastructure, libraries, and services used by a 500+ person 
+engineering department to run the continuous integration portion of its SDLC.
